@@ -18,7 +18,10 @@ A desktop application designed to help users efficiently search, analyze trends,
 
 - 📅 **Compare History Across Providers**  
   View and compare historical results across Toto, Damacai, and 4D side by side.
-
+  
+- 🌐 **Auto Scrape Latest Prizes**  
+  Automatically checks and scrapes the latest lottery results at every app startup.
+  
 - 💻 **Built as a Desktop App**  
   Fast and responsive local performance without needing a browser.
 
