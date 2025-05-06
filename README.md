@@ -8,6 +8,9 @@ A Desktop Flutter project
 
 A desktop application designed to help users efficiently search, analyze trends, and compare historical results from Malaysia's major lottery providers — **Toto**, **Damacai**, and **4D**.
 
+### Homepage
+![Homepage](preview.gif)
+
 ## 📦 Features
 
 - 🔍 **Search Lottery Results**  
