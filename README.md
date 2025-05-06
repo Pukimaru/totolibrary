@@ -1,16 +1,42 @@
 # toto
 
-A new Flutter project.
+A Desktop Flutter project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# 🎰 Malaysia Lottery Library Desktop App
 
-A few resources to get you started if this is your first Flutter project:
+A desktop application designed to help users efficiently search, analyze trends, and compare historical results from Malaysia's major lottery providers — **Toto**, **Damacai**, and **4D**.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📦 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🔍 **Search Lottery Results**  
+  Quickly find winning numbers from past draws.
+
+- 📊 **Analyze Number Trends**  
+  Discover frequently drawn numbers, hot/cold analysis, and patterns over time.
+
+- 📅 **Compare History Across Providers**  
+  View and compare historical results across Toto, Damacai, and 4D side by side.
+
+- 💻 **Built as a Desktop App**  
+  Fast and responsive local performance without needing a browser.
+
+## 🛠 Tech Stack
+
+- **Framework**: Flutter (Desktop)
+- **Language**: Dart
+- **Platforms**: Windows / macOS / Linux
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK (latest stable)
+- Desktop support enabled (`flutter doctor` should show green for desktop)
+
+### Run the App
+```bash
+git clone https://github.com/yourusername/malaysia-lottery-library.git
+cd malaysia-lottery-library
+flutter pub get
+flutter run -d windows  # or macos/linux based on your OS
